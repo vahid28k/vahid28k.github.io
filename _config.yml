@@ -83,10 +83,10 @@ author:
   name             : "Vahid Zadeh"
   avatar           : "profile.png"
   bio              : "Postdoctoral researcher interested in computational mechanics"
-  location         : "Scientific Computing and Imaging Institute"
+  location         : #"Scientific Computing and Imaging Institute"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=83u85UUAAAAJ"
-  email            :
+  email            : "vkeshava@sci.utah.edu"
   researchgate     : "https://www.researchgate.net/profile/Vahid-Keshavarzzadeh"
   uri              :
   bitbucket        :
