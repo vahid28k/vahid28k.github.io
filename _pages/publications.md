@@ -14,3 +14,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Journal Papers
+=========
+
+1- A bandit-learning approach to multifidelity approximation, Yiming Xu, Vahid Keshavarzzadeh, Robert M. Kirby, Akil Narayan
