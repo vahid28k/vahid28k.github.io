@@ -12,7 +12,7 @@ I am a postdoctoral researcher in the Scientific Computing and Imaging Institute
 * Topology Optimization under Uncertainty
 * Multifidelity-Multilevel Approaches for Uncertainty Quantification 
 * Multiscale Topology Optimization
-* Damage and Nonlocal Mechanics in Design Optimization
+* **Damage** and Nonlocal Mechanics in Design Optimization
 * Scalable Gaussian Process Regression
 * Numerical Linear Algebra 
 * Statistical Learning for Design Optimization
