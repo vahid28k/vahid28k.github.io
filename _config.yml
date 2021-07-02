@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : https://twitter.com/vahid28k
+  username               : #https://twitter.com/vahid28k
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vahid Keshavarzzadeh"
-  avatar           : "vahid.png"
+  avatar           : "vkeshava.png"
   bio              : "Researcher interested in computational mechanics"
   location         : #"Scientific Computing and Imaging Institute"
   employer         :
