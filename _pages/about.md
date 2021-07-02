@@ -17,4 +17,6 @@ I am a postdoctoral researcher in the Scientific Computing and Imaging Institute
 * Numerical Linear Algebra 
 * Statistical Learning for Design Optimization
 
-
+Recent News
+=========
+- I will be attending the 16th U.S. National Congress on Computational Mechanics. We organize a minisymposium in this conference: [Robust and Verifiable Data-Driven Analysis and Design Using Machine Learning](http://16.usnccm.org/MS_322).
