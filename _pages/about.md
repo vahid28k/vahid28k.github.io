@@ -19,5 +19,6 @@ I am a postdoctoral researcher in the Scientific Computing and Imaging Institute
 
 Recent News
 =========
+- Our paper on robust topology optimization using low rank approximation and artifical neural networks is accepted in Computational Mechanics. 
 - Our paper, a joint work with Prateek Bansal and Ricardo Daziano, on using designed quadrature for maximum simulated likelihood estimation is available online: [Designed quadrature to approximate integrals in maximum simulated likelihood estimation](https://academic.oup.com/ectj/advance-article/doi/10.1093/ectj/utab023/6325166?guestAccessKey=e6e5e70a-5aac-4b0c-96d0-69275fc9c067).
 - I will be attending the 16th U.S. National Congress on Computational Mechanics. We organize a minisymposium in this conference: [Robust and Verifiable Data-Driven Analysis and Design Using Machine Learning](http://16.usnccm.org/MS_322).
