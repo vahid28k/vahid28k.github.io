@@ -75,14 +75,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-XK6GP7YD5N
 
 
 # Site Author
 author:
   name             : "Vahid Keshavarzzadeh"
   avatar           : "vkeshava.png"
-  bio              : "Researcher interested in computational mechanics"
+  bio              : "Postdoctoral Researcher in Computational Mechanics"
   location         : #"Scientific Computing and Imaging Institute"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=83u85UUAAAAJ"
