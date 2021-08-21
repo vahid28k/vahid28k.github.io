@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -10,13 +10,14 @@ For the complete list of publications please see my [Google Scholar](https://sch
 Preprints
 ==========
 1. Xu Y., **Keshavarzzadeh V.**, Kirby R.M., Narayan A. [A bandit-learning approach to multifidelity approximation](https://arxiv.org/abs/2103.15342), arXiv preprint, arXiv:2103.15342, 2021.
+2. Gladstone R.J., Nabian M.A., **Keshavarzzadeh V.**, Meidani H. [Robust Topology Optimization Using Variational Autoencoders](https://arxiv.org/abs/2107.10661), arXiv preprint, arXiv:2107.10661, 2021
 
 Journal Papers
 ========
 
-1. **Keshavarzzadeh V.**, Kirby R.M., Narayan A. Robust Topology Optimization with Low Rank Approximation Using
-Artificial Neural Networks, Computational Mechanics, 2021 (Accepted for Publication).
-1. Bansal P., **Keshavarzzadeh V.**, Guevara A., Daziano R.A., Li S.  Designed Quadrature to Approximate Integrals in Maximum Simulated Likelihood Estimation, The Econometrics Journal - Royal Economic Society, 2021 (Accepted for Publication).
+1. **Keshavarzzadeh V.**, Kirby R.M., Narayan A. [Robust Topology Optimization with Low Rank Approximation Using
+Artificial Neural Networks](https://link.springer.com/article/10.1007/s00466-021-02069-3), Computational Mechanics, 2021.
+1. Bansal P., **Keshavarzzadeh V.**, Guevara A., Daziano R.A., Li S.  [Designed Quadrature to Approximate Integrals in Maximum Simulated Likelihood Estimation](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utab023/6325166), The Econometrics Journal - Royal Economic Society, 2021.
 2. **Keshavarzzadeh V.**, Kirby R.M., Narayan A. [Multilevel Designed Quadrature for Partial Differential Equations with Random Inputs](https://epubs.siam.org/doi/abs/10.1137/20M1333407), SIAM Journal on Scientific Computing, 43(2), A1412–A1440, 2021. 
 3. Pejman R., **Keshavarzzadeh V.**, Najafi A.R. [Hybrid topology/shape optimization under uncertainty for actively-cooled nature-inspired microvascular composites](https://www.sciencedirect.com/science/article/pii/S0045782520308094), Computer Methods in Applied Mechanics and Engineering 375, 113624, 2021.
 4. **Keshavarzzadeh V.<sup>*</sup>**, Alirezaei M.<sup>*</sup>, Tasdizen T., Kirby R.M. [Image-Based Multiresolution Topology Optimization Using Deep Disjunctive Normal Shape Model](https://www.sciencedirect.com/science/article/pii/S0010448520301408), Computer-Aided Design, Volume 130, 102947, 2021.
