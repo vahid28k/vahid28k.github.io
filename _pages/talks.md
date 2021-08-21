@@ -21,8 +21,8 @@ Congress on Computational Mechanics, July 28 - August 01, 2019, Austin.
 4. Pejman R., **Keshavarzzadeh V.**, Najafi A. Reliability-based and Robust Design
 Optimization of Microvascular Materials for Active Cooling Applications, The 15th US
 National Congress on Computational Mechanics, July 28 - August 01, 2019, Austin.
-5. Nabian M.A., **Keshavarzzadeh V.**, Meidani H. Robust topology optimization
-using image-based deep learning, The Engineering Mechanics Institute Conference 2019,
+5. Nabian M.A., **Keshavarzzadeh V.**, Meidani H. Robust Topology Optimization
+Using Image-Based Deep Learning, The Engineering Mechanics Institute Conference 2019,
 June 18-21, 2019, Pasadena.
 6. Bansal P., **Keshavarzzadeh V.**, Guevara A., Daziano R.A. Designed Quadrature
 to Approximate Integrals in Maximum Simulated Likelihood Estimation, The Transportation Research Board 98th Annual Meeting, January 13-17, 2019, Washington D.C.
@@ -44,7 +44,7 @@ Theoretical and Applied Mechanics, August 21-26, 2016, Montreal, Canada.
 Danish Technical University, Lyngby, Denmark.
 14. Tortorelli, D.A., **Keshavarzzadeh V.** Gradient-Based Design Optimization under Uncertainty via Stochastic Expansion Methods, October 2015, University of Liege,
 Liege, Belgium.
-15. **Keshavarzzadeh V.**, Tortorelli D.A. Gradient Based Design Optimization under
+15. **Keshavarzzadeh V.**, Tortorelli D.A. Gradient-Based Design Optimization under
 Uncertainty via Stochastic Expansion Methods, The 13th US National Congress on
 Computational Mechanics, July 26-30, 2015, San Diego.
 16. Ghanem R., Thimmisetty C., Yadegaran I., **Keshavarzzadeh V.**, Masri S., Red-Horse J., Moser R., Oliver T., Spanos P., Aldraihem O. [A Probabilistic Approach to the
