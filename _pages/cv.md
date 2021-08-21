@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Civil Engineering, University of Southern California, 2014
+* Ph.D. in Civil Engineering, University of Southern California, 2014
 * M.Sc. in Electrical Engineering (Control Systems), University of Southern California, 2010
 * M.Sc. in Structural Engineering, Sharif University of Technology, 2007
 * B.Sc. in Civil Engineering, Sharif University of Technology, 2005
