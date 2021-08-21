@@ -5,12 +5,6 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Services"
-    url: /services/
         
   - title: "Codes"
     url: /year-archive/
