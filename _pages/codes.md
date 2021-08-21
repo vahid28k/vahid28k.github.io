@@ -7,7 +7,7 @@ author_profile: true
 
 GP-HMAT: 
 ==========
-An scalable Gaussian process regression code written in MATLAB 
+[An scalable Gaussian process regression code written in MATLAB](https://github.com/vahid28k/GP-HMAT-MATLAB) 
 
 Designed Quadrature:  
 ==========
