@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher in the Scientific Computing and Imaging Institute (SCI Institute) at the University of Utah. I am broadly interested in problems in computational mechanics, i.e. mechanics problems with computational ingredients. My research, in particular, focuses on developing scalable computational algorithms for design optimization and uncertainty quantification of complex engineering systems pertinent to solid mechanics and structures. My current research interests are:
+I am a postdoctoral researcher in the Scientific Computing and Imaging Institute (SCI Institute) at the University of Utah. I am broadly interested in problems in computational mechanics, i.e. mechanics problems which are viewed through the lens of advanced computations. My research, in particular, focuses on developing scalable computational algorithms for design optimization and uncertainty quantification of complex engineering systems pertinent to solid mechanics and structures. My current research interests are:
 
 * Topology Optimization under Uncertainty
 * Multifidelity-Multilevel Approaches for Uncertainty Quantification 
 * Multiscale Topology Optimization
 * **Damage** and Nonlocal Mechanics in Design Optimization
+* Variational Inference and Statistical Learning for Design Optimization
 * Scalable Gaussian Process Regression
 * Numerical Linear Algebra 
-* Statistical Learning for Design Optimization
 
 Recent News
 =========
