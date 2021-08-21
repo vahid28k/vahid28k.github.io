@@ -27,7 +27,7 @@ Academic positions
   
 Academic Services 
 ======
-* Peer Reviewer for 
+* **Peer Reviewer** 
   - AIAA Journal
   - Computational Mechanics
   - Computer-Aided Design
@@ -46,7 +46,7 @@ Academic Services
   - SIAM Journal on Scientific Computing
   - Structural and Multidisciplinary Optimization
 
-* Minisymposium Organizer
+* **Minisymposium Organizer**
    - Probabilistic Mechanics: Advances in Efficient Computational Methods for Probabilistic Analysis and Design, Engineering Mechanics Institute Conference, June
 4-7, 2017, San Diego.
    - Advances in Artificial Intelligence for Stochastic Analysis, Control and Optimization of Structures and Infrastructure Systems, Engineering Mechanics Institute
