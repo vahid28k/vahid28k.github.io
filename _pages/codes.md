@@ -11,5 +11,5 @@ A MATLAB code for generating numerical quadrature for integration in multiple di
 
 GP-HMAT: 
 ==========
-[An scalable Gaussian process regression code written in MATLAB](https://github.com/vahid28k/GP-HMAT-MATLAB) 
+[A scalable Gaussian process regression code written in MATLAB](https://github.com/vahid28k/GP-HMAT-MATLAB) 
 
