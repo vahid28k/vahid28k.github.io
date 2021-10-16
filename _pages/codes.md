@@ -7,7 +7,7 @@ author_profile: true
 
 Designed Quadrature:  
 ==========
-A MATLAB code for generating numerical quadrature for integration in multiple dimensions with uniform and Gaussian weights
+[Designed quadrature generator for uniform and Gaussian weights](https://github.com/vahid28k/DQ-MATLAB)
 
 GP-HMAT: 
 ==========
