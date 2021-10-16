@@ -45,6 +45,7 @@ Academic Services
   - Probabilistic Engineering Mechanics
   - SIAM Journal on Scientific Computing
   - Structural and Multidisciplinary Optimization
+  - Thin-Walled Structures
 
 * **Minisymposium Organizer**
    - Probabilistic Mechanics: Advances in Efficient Computational Methods for Probabilistic Analysis and Design, Engineering Mechanics Institute Conference, June
