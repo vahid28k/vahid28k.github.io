@@ -9,7 +9,8 @@ For the complete list of publications please see my [Google Scholar](https://sch
 
 Preprints
 ==========
-
+1. **Keshavarzzadeh V.**, Kirby R.M., Narayan A. Variational Inference for Nonlinear Inverse Problems via Neural Net Kernels: Comparison to Bayesian Neural Networks, Application to Topology Optimization, available upon request
+1. **Keshavarzzadeh V.**, Zhe S., Kirby R.M., Narayan A. [GP-HMAT: Scalable, O(nlog(n)) Gaussian Process Regression with Hierarchical Low-Rank Matrices](https://arxiv.org/abs/2201.00888), arXiv preprint, arXiv:2201.00888, 2021
 1. Gladstone R.J., Nabian M.A., **Keshavarzzadeh V.**, Meidani H. [Robust Topology Optimization Using Variational Autoencoders](https://arxiv.org/abs/2107.10661), arXiv preprint, arXiv:2107.10661, 2021
 
 Journal Papers
