@@ -19,6 +19,7 @@ I am a postdoctoral researcher in the Scientific Computing and Imaging Institute
 
 Recent News
 =========
+- [May 2022] A new preprint on variational inference for nonlinear inverse problems using a neural network machinery based on hierarchical kernels, referred to as neural net kernels (NNK) [Variational Inference for Nonlinear Inverse Problems via Neural Net Kernels: Comparison to Bayesian Neural Networks, Application to Topology Optimization](https://arxiv.org/abs/2205.03681). The codes for this work are available upon request. 
 - [January 2022] A new preprint is now online on a scalable GP regression approach using hierarchical matrices [GP-HMAT: Scalable, O(nlog(n)) Gaussian Process Regression with Hierarchical Low-Rank Matrices](https://arxiv.org/abs/2201.00888). The codes for this work are available in the Codes page.  
 - [October 2021] I will be attending the workshop [Machine Learning in Heterogeneous Porous Materials](https://amerimech.mech.utah.edu/) as part of Amerimech Symposium Series hosted by The National Academies of Sciences, Engineering, and Medicine.
 - [July 2021] Our paper on robust topology optimization using low rank approximation and artifical neural networks is accepted in Computational Mechanics. 
