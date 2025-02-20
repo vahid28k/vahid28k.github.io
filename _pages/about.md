@@ -17,6 +17,7 @@ I am currently a machine learning scientist in General Motors. I am broadly inte
 * Multiscale Topology Optimization
 * Damage and Nonlocal Mechanics in Design Optimization
 
+At a personal level, I have been working on an automated trading app, transforming my previous trading ideas —rooted in chart analysis— into code. I will be sharing some of my insights that may benefit others interested in automated trading.
 
 
 Recent News
