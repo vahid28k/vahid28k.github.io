@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I was previously a machine learning scientist/engineer in General Motors. I am broadly interested in predictive modeling and problems in computational science. Prior to my position at GM, I was a postdoctoral researcher at the University of Utah. My research, primarily, focuses on developing scalable computational algorithms for design optimization and uncertainty quantification of complex engineering systems. My research interests are:
+I was previously a machine learning scientist/engineer at General Motors. I am broadly interested in predictive modeling and problems in computational science. Prior to my position at GM, I was a postdoctoral researcher at the University of Utah. My research, primarily, focuses on developing scalable computational algorithms for design optimization and uncertainty quantification of complex engineering systems. My research interests are:
 
 * Multifidelity-Multilevel Approaches for Uncertainty Quantification 
 * Numerical Linear Algebra 
