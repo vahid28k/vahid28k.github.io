@@ -7,17 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a machine learning scientist in General Motors. I am broadly interested in predictive modeling and problems in computational science. Previously, I was a postdoctoral researcher at the University of Utah. My research, primarily, focuses on developing scalable computational algorithms for design optimization and uncertainty quantification of complex engineering systems. My research interests are:
+I was previously a machine learning scientist/engineer in General Motors. I am broadly interested in predictive modeling and problems in computational science. Prior to my position at GM, I was a postdoctoral researcher at the University of Utah. My research, primarily, focuses on developing scalable computational algorithms for design optimization and uncertainty quantification of complex engineering systems. My research interests are:
 
 * Multifidelity-Multilevel Approaches for Uncertainty Quantification 
 * Numerical Linear Algebra 
-* Variational Inference and Statistical Learning for Design Optimization
+* Variational Inference and Statistical Learning 
 * Scalable Gaussian Process Regression
-* Topology Optimization under Uncertainty
-* Multiscale Topology Optimization
-* Damage and Nonlocal Mechanics in Design Optimization
+* Large Scale Numerical Optimization
 
-At a personal level, I have been working on an automated trading app, transforming my previous trading ideas —rooted in chart analysis— into code. I will be sharing some of my insights that may benefit others interested in automated trading.
+At a personal level, I have been working on an automated trading app, transforming my previous trading ideas —rooted in chart analysis— into code. I will be sharing some of my insights that may benefit others interested in automated trading. Please see https://github.com/vahid28k/automated_trading
 
 
 Recent News
