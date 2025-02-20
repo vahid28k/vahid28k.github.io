@@ -15,7 +15,9 @@ I was previously a machine learning scientist/engineer at General Motors. I am b
 * Scalable Gaussian Process Regression
 * Large Scale Numerical Optimization
 
-At a personal level, I have been working on an automated trading app, transforming my previous trading ideas —rooted in chart analysis— into code. I will be sharing some of my insights that may benefit others interested in automated trading. Please see https://github.com/vahid28k/automated_trading
+At a personal level, I have been working on an automated trading app, transforming my previous trading ideas —rooted in chart analysis— into code. I will be sharing some of my insights that may benefit others interested in automated trading. 
+
+Please see (https://github.com/vahid28k/automated_trading)
 
 
 Recent News
