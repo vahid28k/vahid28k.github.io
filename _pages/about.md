@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a software engineer at 3DT Holdings, working on biomedical applications for cardiac mechanics. I develop advanced software tools that assist surgeons in performing precise and effective heart procedures. Prior to this, I worked as a machine learning scientist/engineer at General Motors, focusing on high definition mapping for ADAS applications. Before joining industry, I served as a postdoctoral researcher at the University of Utah and the University of Illinois, Urbana-Champaign, where I conducted research in computational science and engineering, focusing on scalable computational algorithms for design optimization and uncertainty quantification of complex engineering systems. My research interests are:
+I am a software engineer at 3DT Holdings, working on biomedical applications for cardiac mechanics. I develop software tools that assist surgeons in performing precise and effective heart procedures. Prior to this, I worked as a machine learning scientist/engineer at General Motors, focusing on high definition mapping for ADAS applications. Before joining industry, I served as a postdoctoral researcher at the University of Utah and the University of Illinois, Urbana-Champaign, where I conducted research in computational science and engineering, focusing on scalable computational algorithms for design optimization and uncertainty quantification of complex engineering systems. My research interests are:
 
 * Multifidelity-Multilevel Approaches for Uncertainty Quantification 
 * Numerical Linear Algebra 
