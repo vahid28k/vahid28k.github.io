@@ -17,7 +17,7 @@ I am a software engineer at 3DT Holdings, working on biomedical applications for
 
 At a personal level, I have been working on an automated trading app, transforming my previous trading ideas —rooted in chart analysis— into code. I will be sharing some of my insights that may benefit others interested in automated trading. 
 
-Please see my [X profile](https://x.com/vahid28k) and [My Automated Trading Repo](https://github.com/vahid28k/automated_trading).
+Please see my [X Profile](https://x.com/vahid28k) and [My Automated Trading Repo](https://github.com/vahid28k/automated_trading).
 
 
 Recent News
