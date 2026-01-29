@@ -22,6 +22,7 @@ Please see [My Automated Trading Repo](https://github.com/vahid28k/automated_tra
 
 Recent News
 =========
+- [January 2026] New paper published in Bioengineering (Basel): A parametric study of mitral valve geometry, exploring the effects of anatomical variations on valve mechanics [Leaflet Lengths and Commissural Dimensions as the Primary Determinants of Orifice Area in Mitral Regurgitation: A Sobol Sensitivity Analysis](https://www.mdpi.com/2306-5354/13/1/97).
 - [May 2022] A new preprint on variational inference for nonlinear inverse problems using a neural network machinery based on hierarchical kernels, referred to as neural net kernels (NNK) [Variational Inference for Nonlinear Inverse Problems via Neural Net Kernels: Comparison to Bayesian Neural Networks, Application to Topology Optimization](https://arxiv.org/abs/2205.03681). The codes for this work are available upon request. 
 - [January 2022] A new preprint is now online on a scalable GP regression approach using hierarchical matrices [GP-HMAT: Scalable, O(nlog(n)) Gaussian Process Regression with Hierarchical Low-Rank Matrices](https://arxiv.org/abs/2201.00888). The codes for this work are available in the Codes page.  
 - [October 2021] I will be attending the workshop [Machine Learning in Heterogeneous Porous Materials](https://amerimech.mech.utah.edu/) as part of Amerimech Symposium Series hosted by The National Academies of Sciences, Engineering, and Medicine.
