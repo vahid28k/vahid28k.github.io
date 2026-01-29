@@ -13,7 +13,7 @@ Preprints
 
 Journal Papers
 ========
-1. Bagherzadeh A., Keshavarzzadeh V., Hoang P., Kreuzer S., Yao J., Lee LC, Kassab G.S., Guccione J. [Leaflet Lengths and Commissural Dimensions as the Primary Determinants of Orifice Area in Mitral Regurgitation: A Sobol Sensitivity Analysis](https://www.mdpi.com/2306-5354/13/1/97), Bioengineering (Basel), 2026.
+1. Bagherzadeh A., **Keshavarzzadeh V.**, Hoang P., Kreuzer S., Yao J., Lee LC, Kassab G.S., Guccione J. [Leaflet Lengths and Commissural Dimensions as the Primary Determinants of Orifice Area in Mitral Regurgitation: A Sobol Sensitivity Analysis](https://www.mdpi.com/2306-5354/13/1/97), Bioengineering (Basel), 2026.
 1. Gladstone R.J., Nabian M.A., **Keshavarzzadeh V.**, Meidani H. [Robust topology optimization using multi-fidelity variational autoencoders](https://arxiv.org/abs/2107.10661), Journal of Machine Learning for Modeling and Computing, 2024.
 2. **Keshavarzzadeh V.**, Kirby R.M., Narayan A. [Variational Inference for Nonlinear Inverse Problems via Neural Net Kernels: Comparison to Bayesian Neural Networks, Application to Topology Optimization](https://arxiv.org/abs/2205.03681), Computer Methods in Applied Mechanics and Engineering 400, 115495, 2022. 
 1. Xu Y., **Keshavarzzadeh V.**, Kirby R.M., Narayan A. [A bandit-learning approach to multifidelity approximation](https://arxiv.org/abs/2103.15342), SIAM Journal on Scientific Computing, 2021.
